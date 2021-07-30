@@ -42,7 +42,7 @@ git init
 
 
 
-pip install -r requirements.txt
+pip install -r requirements.txt  ------->>>  run on terminal       ----python clientApp.py    
 
 
 STEP 5 Install DVC and its gdrive extension
